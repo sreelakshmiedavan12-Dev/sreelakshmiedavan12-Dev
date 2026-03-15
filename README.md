@@ -15,6 +15,9 @@ Hi, I'm Sreelakshmi Edavan. 👋<br><br>I am a motivated engineering student and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sreelakshmiedavan12-Dev&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Lateef&ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
