@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sreelakshmi Edavan</h1>
+<h1 align="center">Hi, I'm Sreelakshmi Edavan ✨</h1>
 <h3 align="center">Engineering Student | AI • Embedded Systems • FPGA</h3>
 
 ---
@@ -52,16 +52,16 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff9c)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c)
+![Verilog](https://img.shields.io/badge/Verilog-0d1117?style=for-the-badge&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff9c)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff9c)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9c)
 
 ---
 
