@@ -46,7 +46,7 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ##  Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=00ff9c)](mailto:Sreelakshmiedavan12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:Sreelakshmiedavan12@gmail.com)
 
 ---
 
