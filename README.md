@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sreelakshmi Edavan</h1>
 <h3 align="center">Engineering Student | AI • Embedded Systems • FPGA</h3>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<p align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am an engineering student and technology enthusiast with strong interests in **Artificial Intelligence, Embedded Systems, FPGA design, and Software Development**.
 
@@ -17,7 +17,7 @@ I aim to contribute to impactful technologies while continuously improving my te
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 
@@ -71,17 +71,17 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&show_icons=true&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&show_icons=true&theme=dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiedavan12-Dev&theme=default&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiedavan12-Dev&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmiedavan12-Dev&layout=compact&theme=default&hide_border=true)
+
 
 ---
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=light&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
