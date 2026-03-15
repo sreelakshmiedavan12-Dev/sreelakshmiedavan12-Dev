@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sreelakshmi Edavan</h1>
-<h3 align="center">Engineering Student | AI & Embedded Systems Enthusiast</h3>
+<h1 align="center">Hi, I'm Sreelakshmi Edavan</h1>
+<h3 align="center">Engineering Student | AI • Embedded Systems • FPGA</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a passionate **engineering student and technology enthusiast** with strong interests in **Artificial Intelligence, Embedded Systems, FPGA Design, and Software Development**.
+I am an engineering student and technology enthusiast with strong interests in **Artificial Intelligence, Embedded Systems, FPGA design, and Software Development**.
 
-I enjoy transforming ideas into **real-world solutions through coding, research, and hands-on projects**. I actively explore emerging technologies, participate in **hackathons**, and work on innovative projects that create meaningful impact.
+I enjoy transforming ideas into practical solutions through **coding, research, and hands-on projects**. I actively explore modern technologies, participate in **hackathons**, and build innovative projects that solve real-world problems.
 
-🌱 Currently learning: **Advanced AI Systems & Hardware Acceleration**  
-🤝 Open to: **Collaborations, research projects, and open-source contributions**
+I aim to contribute to impactful technologies while continuously improving my technical and problem-solving skills.
 
 ---
 
-## 🚀 Technical Skills
+## 🧠 Technical Skills
 
 **Programming Languages**
 
@@ -30,22 +33,22 @@ Artificial Intelligence • Machine Learning • IoT Systems • Digital Design 
 
 ---
 
-## 🎯 Interests
+## 🎯 Areas of Interest
 
-- Artificial Intelligence & Machine Learning  
-- Embedded Systems & IoT  
-- FPGA & Hardware Design  
-- Software and Web Development  
-
----
-
-## 🌟 Hobbies
-
-Music 🎵 • Cooking 🍳 • Dancing 💃 • Fashion 👗 • Traveling ✈️ • Social Networking 🌍
+Artificial Intelligence & Machine Learning  
+Embedded Systems & IoT  
+FPGA and Hardware Design  
+Software & Web Development  
 
 ---
 
-## 🌐 Connect With Me
+## 🌸 Hobbies
+
+Music • Cooking • Dancing • Fashion • Traveling • Social Networking
+
+---
+
+## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com)
 
@@ -66,22 +69,22 @@ Music 🎵 • Cooking 🍳 • Dancing 💃 • Fashion 👗 • Traveling ✈�
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&show_icons=true&theme=default&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=sreelakshmiedavan12-Dev&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiedavan12-Dev&theme=default&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmiedavan12-Dev&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmiedavan12-Dev&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 💻 LeetCode Progress
+## 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=light&font=Karma&ext=heatmap)
 
 ---
 
 <p align="center">
-✨ Always open to learning opportunities, collaborations, and impactful projects ✨
+Always open to learning opportunities, collaborations, and impactful projects.
 </p>
