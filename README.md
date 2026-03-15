@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi, I'm Sreelakshmi Edavan. 👋<br><br>I am a motivated engineering student and technology enthusiast with a strong interest in software development, artificial intelligence, and embedded systems. I enjoy transforming ideas into practical solutions through coding, research, and hands-on projects.<br><br>I am passionate about building impactful technologies that solve real-world problems and improve everyday life. I continuously work on developing my technical skills by exploring modern tools, participating in hackathons, and working on innovative projects.<br><br>Areas of Interest<br><br>Artificial Intelligence & Machine Learning<br><br>Embedded Systems & IoT<br><br>FPGA and Hardware Design<br><br>Software and Web Development<br><br>Technical Skills<br><br>Programming: Python, C/C++, Verilog<br><br>Tools & Platforms: Git, GitHub, Vivado, LabVIEW<br><br>Technologies: AI/ML, IoT Systems, Digital Design<br><br>Goals<br><br>I aim to contribute to innovative technological solutions, collaborate with talented developers, and continuously grow as an engineer by working on challenging projects and open-source contributions.<br><br>📫 Always open to learning opportunities, collaborations, and impactful projects.
+Hi, I'm Sreelakshmi Edavan 👋
+I am an engineering student and technology enthusiast with a strong interest in Artificial Intelligence, Embedded Systems, FPGA design, and Software Development. I enjoy turning ideas into practical solutions through coding, research, and hands-on projects.
 
+I actively explore modern technologies, participate in hackathons, and build innovative projects that solve real-world problems.
+
+# Technical Skills:
+Python • C/C++ • Verilog • Git • GitHub • Vivado • LabVIEW • AI/ML • IoT • Digital Design
+
+# Hobbies:
+Social networking, music, cooking, dancing, fashion, and traveling.
+
+📫 Always open to learning opportunities, collaborations, and impactful projects.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com) 
