@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Sreelakshmi Edavan 👋
+
 I am an engineering student and technology enthusiast with a strong interest in Artificial Intelligence, Embedded Systems, FPGA design, and Software Development. I enjoy turning ideas into practical solutions through coding, research, and hands-on projects.
 
 I actively explore modern technologies, participate in hackathons, and build innovative projects that solve real-world problems.
