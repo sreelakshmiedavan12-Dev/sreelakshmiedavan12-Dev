@@ -1,39 +1,87 @@
-#  About Me:
-Hi, I'm Sreelakshmi Edavan 👋
+<h1 align="center">Hi 👋, I'm Sreelakshmi Edavan</h1>
+<h3 align="center">Engineering Student | AI & Embedded Systems Enthusiast</h3>
 
-I am an engineering student and technology enthusiast with a strong interest in Artificial Intelligence, Embedded Systems, FPGA design, and Software Development. I enjoy turning ideas into practical solutions through coding, research, and hands-on projects.
+---
 
-I actively explore modern technologies, participate in hackathons, and build innovative projects that solve real-world problems.
+## 👩‍💻 About Me
 
-# Technical Skills:
-Python • C/C++ • Verilog • Git • GitHub • Vivado • LabVIEW • AI/ML • IoT • Digital Design
+I am a passionate **engineering student and technology enthusiast** with strong interests in **Artificial Intelligence, Embedded Systems, FPGA Design, and Software Development**.
 
-# Hobbies:
-Social networking, music, cooking, dancing, fashion, and traveling.
+I enjoy transforming ideas into **real-world solutions through coding, research, and hands-on projects**. I actively explore emerging technologies, participate in **hackathons**, and work on innovative projects that create meaningful impact.
 
- Always open to learning opportunities, collaborations, and impactful projects.
+🌱 Currently learning: **Advanced AI Systems & Hardware Acceleration**  
+🤝 Open to: **Collaborations, research projects, and open-source contributions**
 
-##  Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com) 
+---
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sreelakshmiedavan12-Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmiedavan12-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Technical Skills
 
-##  Leetcode
+**Programming Languages**
 
+Python • C • C++ • Verilog
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Lateef&ext=heatmap)
+**Tools & Platforms**
 
-### 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sreelakshmiedavan12-Dev/sreelakshmiedavan12-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sreelakshmiedavan12-Dev/sreelakshmiedavan12-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sreelakshmiedavan12-Dev/sreelakshmiedavan12-Dev/output/pacman-contribution-graph.svg">
-</picture>
+Git • GitHub • Vivado • LabVIEW
 
+**Technologies**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Artificial Intelligence • Machine Learning • IoT Systems • Digital Design • FPGA Development
+
+---
+
+## 🎯 Interests
+
+- Artificial Intelligence & Machine Learning  
+- Embedded Systems & IoT  
+- FPGA & Hardware Design  
+- Software and Web Development  
+
+---
+
+## 🌟 Hobbies
+
+Music 🎵 • Cooking 🍳 • Dancing 💃 • Fashion 👗 • Traveling ✈️ • Social Networking 🌍
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&theme=dark&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sreelakshmiedavan12-Dev&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelakshmiedavan12-Dev&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 💻 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Karma&ext=heatmap)
+
+---
+
+<p align="center">
+✨ Always open to learning opportunities, collaborations, and impactful projects ✨
+</p>
