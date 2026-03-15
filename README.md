@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Sreelakshmi Edavan</h1>
 <h3 align="center">Engineering Student | AI • Embedded Systems • FPGA</h3>
 
-<p align="right">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ##  About Me
@@ -33,7 +29,7 @@ Artificial Intelligence • Machine Learning • IoT Systems • Digital Design 
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 Artificial Intelligence & Machine Learning  
 Embedded Systems & IoT  
@@ -42,13 +38,13 @@ Software & Web Development
 
 ---
 
-## 🌸 Hobbies
+##  Hobbies
 
 Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ---
 
-## 📬 Contact
+##  Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com)
 
@@ -69,7 +65,7 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=sreelakshmiedavan12-Dev&show_icons=true&theme=dark&hide_border=true)
 
@@ -79,7 +75,7 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ---
 
-## 💻 LeetCode
+##  LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SreelakshmiEV?theme=dark&font=Karma&ext=heatmap)
 
