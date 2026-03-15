@@ -84,3 +84,13 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 <p align="center">
 Always open to learning opportunities, collaborations, and impactful projects.
 </p>
+
+---
+
+<p align="center">
+Profile Visitors
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sreelakshmiedavan12-Dev&label=Visitors&color=00ff9c&style=for-the-badge"/>
+</p>
