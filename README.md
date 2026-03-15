@@ -46,11 +46,11 @@ Music • Cooking • Dancing • Fashion • Traveling • Social Networking
 
 ##  Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sreelakshmiedavan12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=00ff9c)](mailto:Sreelakshmiedavan12@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff9c)
